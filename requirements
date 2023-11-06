@@ -1,0 +1,9 @@
+This file contains all the libraries which are needed for spam detection project in machine learning:
+Pickle
+Pandas
+NumPy
+spacy
+tensorflow/PyTorch
+Streamlit
+Extras
+Joblib
